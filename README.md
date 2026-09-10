@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
