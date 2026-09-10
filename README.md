@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [1396-design-underground-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1396-design-underground-system) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1396-design-underground-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1396-design-underground-system) |
 ## Queue
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0901-online-stock-span) |
+| [1396-design-underground-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
