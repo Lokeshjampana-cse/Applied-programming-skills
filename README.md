@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1396-design-underground-system) |
+| [1600-throne-inheritance](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1600-throne-inheritance) |
 ## String
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1472-design-browser-history) |
+| [1600-throne-inheritance](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0705-design-hashset) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
