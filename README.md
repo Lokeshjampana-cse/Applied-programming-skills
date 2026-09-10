@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1472-design-browser-history) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1396-design-underground-system) |
 ## String
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Recursion
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0901-online-stock-span) |
 | [1396-design-underground-system](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1472-design-browser-history) |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
