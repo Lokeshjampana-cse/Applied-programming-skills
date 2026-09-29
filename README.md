@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -157,9 +158,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [1600-throne-inheritance](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [1600-throne-inheritance](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/1600-throne-inheritance) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Lokeshjampana-cse/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
